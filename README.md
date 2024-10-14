@@ -4,7 +4,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nyx-off&label=Profile%20views&color=0e75b6&style=flat" alt="nyx-off" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyx-off" alt="nyx-off" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&column=3&margin-w=15&margin-h=15&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=nyx-off" alt="nyx-off" /></a> </p>
 <br>
 
 - 📄 Know about my experiences : [CV](https://bensalemdev.fr)
