@@ -19,9 +19,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nyx-off&show_icons=true&locale=en" alt="nyx-off" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nyx-off&" alt="nyx-off" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyx-off&" alt="nyx-off" /></p>
 
-<p align="center">
 ![Header](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)  
-</p>
 
