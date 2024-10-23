@@ -4,13 +4,13 @@ I'm passionate about technology, coding, and always curious to explore new thing
 
 ### 🚀 About Me
 - 💼 Check out my [CV](https://bensalemdev.fr) for more details about my experiences.
-- 🌱 Currently exploring cybersecurity, cloud computing, and software development.
+- 🌱 Currently exploring cybersecurity
 - ⚡ Fun fact: I'm always eager to learn something new and I ask *a lot* of questions!
 
 ### 🛠️ Languages & Tools
 Here are some of the technologies I work with:
 
-- **Languages**: Java, Python, C/C++, JavaScript, PHP, Rust, Lua
+- **Languages**: Java, Python, C/C++, JavaScript, PHP, Rust, Lua, bash
 - **DevOps**: Docker, Git
 - **Web Technologies**: HTML, CSS, Bootstrap, Node.js
 - **Databases**: MySQL
