@@ -1,5 +1,4 @@
 # Samy Bensalem (Nyx) – Developer & Cybersecurity Enthusiast 👨‍💻  
-### Samy Bensalem (Nyx) – Développeur & passionné de cybersécurité 👨‍💻
 
 ## About Me / À propos de moi
 
