@@ -1,81 +1,195 @@
-# Samy Bensalem (Nyx) – Developer & Cybersecurity Enthusiast 👨‍💻  
+```
+┌─────────────────────────────────────────────┐
+│  Samy Bensalem  —  Nyx                     │
+│  Cybersecurity • SysAdmin • Dev            │
+│  https://bensalemdev.fr                    │
+└─────────────────────────────────────────────┘
 
-## About Me / À propos de moi
+> root@cybersec:~# whoami  
+> samy.bensalem (aka Nyx)
 
-**English:**  
-By day, I'm a network and cybersecurity specialist; by night, I embrace my alias **Nyx**, exploring the darkest corners of the digital realm and crafting creative code. I’m passionate about technology and continuous learning, always experimenting with new tools and asking *why* and *how*. Welcome to my GitHub profile – where curiosity meets code!  
+> cat /about  
+Administrateur réseaux & spécialiste cybersécurité, passionné par le code,  
+l'infra, et tout ce qui touche à la sécurité numérique.  
+Je construis des outils utiles, compacts et documentés,  
+souvent avec une touche créative (UI, jeux, univers médiéval-fantasy).
 
-- 📄 **Check out my CV** at [bensalemdev.fr](https://bensalemdev.fr) for more details about my experience.  
-- 🔒 **Currently exploring cybersecurity** and honing my skills in network security.  
-- ⚡ **Fun fact:** I ask *a lot* of questions – it’s how I learn new things and push my limits!
+───────────────────────────────────────────────
+> systemctl status nyx
 
-**Français :**  
-Le jour, je suis administrateur réseaux spécialisé en cybersécurité ; la nuit, je deviens **Nyx**, explorant les recoins les plus sombres du monde du code et développant des projets créatifs. Passionné par les nouvelles technologies et l’apprentissage continu, j’aime expérimenter différents outils et comprendre le *pourquoi* et le *comment*. Bienvenue sur mon profil GitHub – là où la curiosité rencontre le code !  
+🧠  Études : Master 2 Cybersécurité — E3IN / ESIEE-IT  
+🏢  Alternance : Inovie / Biofutur — Sécurité & Infrastructure  
+⚙️  Langages : Bash · Python · C · C++ · PHP · JS/TS · SQL  
+🖥️  Stack : Linux · Docker · AD/GPO · Nginx · FastAPI · GitHub Actions  
+📚  Méthodes : EBIOS RM · OpenSSL · PKI · Wireshark · Audit & Hardening  
 
-- 📄 **Consultez mon CV** sur [bensalemdev.fr](https://bensalemdev.fr) pour plus de détails sur mon parcours.  
-- 🔒 **J’explore actuellement la cybersécurité** et j’améliore mes compétences en sécurité réseau.  
-- ⚡ **Fun fact :** Je pose *beaucoup* de questions – c’est comme ça que j’apprends et que je repousse mes limites !
+───────────────────────────────────────────────
+> ls ~/projects -l
 
-## 🛠️ Languages & Tools / Langages & Outils
+📁 honeypot-dashboard/  
+ ↳ Flask + MongoDB honeypot metrics · Docker-ready dashboard
 
-**Languages / Langages:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+📁 NyxLabs-QR-Suite/  
+ ↳ Suite d’outils QR multi-lang (CLI + Web UI)
 
-**DevOps:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+📁 CyberNet-Portfolio/  
+ ↳ Portfolio PHP/JS léger · GitHub auto-sync · rapide à déployer
 
-**Web Technologies / Technologies Web:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+📁 CryptoForge/  
+ ↳ Outil éducatif de chiffrement/déchiffrement de fichiers
 
-**Databases / Bases de données:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+📁 CoinKeeperRPG/  
+ ↳ Expérimentation entre finance et jeu de rôle · mini-RPG
 
-**Other Tools / Autres outils:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
+───────────────────────────────────────────────
+> cat /skills
 
-## 💡 Projects / Projets
+Infrastructure & Sécurité  
+    → Linux · Docker · AD · Monitoring · Firewall · Hardening  
+Développement  
+    → Bash · Python · C/C++ · PHP · JavaScript / TypeScript  
+Web & UI  
+    → HTML · CSS · JS Vanilla · minimal frameworks  
+Méthodologies  
+    → EBIOS RM · PKI · cryptographie · pentest basique  
+Langues  
+    → 🇬🇧 Anglais (B1/B2) · 🇪🇸 Espagnol (A2/B1)
 
-**English:**  
-- **Honeypot Dashboard:** a personal project where I capture and visualize intrusion attempts on a fake SSH/Telnet server. Developed with Docker, MongoDB, and Flask, it allows me to observe and analyze these attacks.  
-- **CryptoForge:** a file encryption and decryption tool based on a homebrew encryption method, providing a fun way to experiment with cryptography.  
-- **NyxLabs QR Suite:** a collection of open-source tools for generating QR codes, written in multiple languages and technologies (Python, Rust, plus a modern interactive web version in HTML/CSS/JS).  
-- **Ace Ventura – The Game:** a full-screen adventure game developed in Python using the Pygame library (inspired by the Ace Ventura universe).  
-- **Breakout Game:** a reimagining of the classic Breakout arcade game, built with HTML, CSS, JavaScript, and PHP for robust scorekeeping (break the bricks with a bouncing ball!).  
-- **CyberNet Portfolio:** a sleek and responsive portfolio website template designed for developers and network admins, featuring integration of GitHub projects via PHP.
+───────────────────────────────────────────────
+> history | grep "career"
 
-**Français :**  
-- **Honeypot Dashboard :** un projet personnel où je m’amuse à capturer et visualiser les tentatives d’intrusion sur un faux serveur SSH/Telnet. Développé avec Docker, MongoDB et Flask, il me permet d’observer et d’analyser ces attaques.  
-- **CryptoForge :** un outil de chiffrement et déchiffrement de fichiers basé sur une méthode de chiffrement "maison", pour expérimenter la cryptographie de manière ludique.  
-- **NyxLabs QR Suite :** une collection d’outils open-source pour générer des QR codes, écrite en plusieurs langages et technologies (Python, Rust, et une version web interactive en HTML/CSS/JS moderne).  
-- **Ace Ventura – The Game :** un jeu d’aventure en plein écran développé en Python avec la bibliothèque Pygame (inspiré de l’univers d’Ace Ventura).  
-- **Breakout Game :** une réinvention du jeu d’arcade classique *Breakout*, développée en HTML, CSS, JavaScript, avec du PHP pour une gestion robuste des scores (cassez les briques avec une balle rebondissante !).  
-- **CyberNet Portfolio :** un template de site portfolio simple et élégant, conçu pour les développeurs et admins réseau, avec un design réactif et une intégration des projets GitHub via PHP.
+2022-2025 : Administrateur Réseaux & Sécurité @ BIOFUTUR / INOVIE  
+ – Gestion du parc, supervision, GPO, GLPI, sauvegardes  
+ – Déploiement de solutions de cybersécurité, monitoring et durcissement
 
-## 🏆 GitHub Trophies
+2020-2022 : Développeur Web Freelance  
+ – Refonte de sites, modules clients, optimisation sécurité
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nyx-Off&column=3&margin-w=15&margin-h=15&no-bg=true)
+🎓 Formation complète en Cybersécurité  
+ – BTS SIO → Bachelor → Master 2 E3IN / ESIEE-IT
 
-## 📊 GitHub Stats
+───────────────────────────────────────────────
+> curl https://bensalemdev.fr --head
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyx-Off&show_icons=true&theme=transparent)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Nyx-Off&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx-Off&layout=compact&langs_count=8&theme=transparent)  
+HTTP/1.1 200 OK  
+Server: nginx  
+Location: /  
+Description: Portfolio complet, CV, projets & contact centralisé  
+Contact: samy.bensalem@etik.com · contact@bensalemdev.com  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nyx-Off&style=flat&color=blue)
+───────────────────────────────────────────────
+> echo "Philosophie"
+
+- Faire **simple** et **lisible**.  
+- Créer des outils **stables** avant tout.  
+- Rendre les projets **ouverts et documentés**.  
+- Toujours mêler la **tech** à un **univers visuel** cohérent.
+
+───────────────────────────────────────────────
+> ./nyx --credits
+
+Maintenu par **Nyx (Samy Bensalem)**  
+Site : [bensalemdev.fr](https://bensalemdev.fr)  
+GitHub : [@Nyx-Off](https://github.com/Nyx-Off)  
+Licence : MIT · Contributions bienvenues
+
+───────────────────────────────────────────────
+> ./nyx --lang en
+───────────────────────────────────────────────
+
+┌─────────────────────────────────────────────┐
+│  Samy Bensalem  —  Nyx                     │
+│  Cybersecurity • SysAdmin • Dev            │
+│  https://bensalemdev.fr                    │
+└─────────────────────────────────────────────┘
+
+> whoami  
+> samy.bensalem (aka Nyx)
+
+> cat /about  
+Network administrator & cybersecurity specialist, passionate about code,  
+infrastructure, and digital security.  
+I build compact, useful, and well-documented tools —  
+often with a creative touch (UI, games, or fantasy universes).
+
+───────────────────────────────────────────────
+> systemctl status nyx
+
+🧠  Education: MSc in Cybersecurity — E3IN / ESIEE-IT  
+🏢  Work-study: Inovie / Biofutur — Security & Infrastructure  
+⚙️  Languages: Bash · Python · C · C++ · PHP · JS/TS · SQL  
+🖥️  Stack: Linux · Docker · AD/GPO · Nginx · FastAPI · GitHub Actions  
+📚  Focus: EBIOS RM · OpenSSL · PKI · Wireshark · Hardening  
+
+───────────────────────────────────────────────
+> ls ~/projects -l
+
+📁 honeypot-dashboard/  
+ ↳ Flask + MongoDB honeypot metrics · Dockerized dashboard
+
+📁 NyxLabs-QR-Suite/  
+ ↳ Multi-language QR toolkit (CLI + Web UI)
+
+📁 CyberNet-Portfolio/  
+ ↳ Lightweight PHP/JS portfolio · GitHub auto-sync
+
+📁 CryptoForge/  
+ ↳ Educational file encryption/decryption tool
+
+📁 CoinKeeperRPG/  
+ ↳ Mini-RPG experiment mixing finance & gamified progress
+
+───────────────────────────────────────────────
+> cat /skills
+
+Infrastructure & Security  
+    → Linux · Docker · AD · Monitoring · Firewall · Hardening  
+Development  
+    → Bash · Python · C/C++ · PHP · JavaScript / TypeScript  
+Web & UI  
+    → HTML · CSS · Vanilla JS · minimal frameworks  
+Methodologies  
+    → EBIOS RM · PKI · Cryptography · Light Pentesting  
+Languages  
+    → 🇬🇧 English (B1/B2) · 🇪🇸 Spanish (A2/B1)
+
+───────────────────────────────────────────────
+> history | grep "career"
+
+2022-2025 : Network & Security Admin @ BIOFUTUR / INOVIE  
+ – IT management, monitoring, GPO, GLPI, backups  
+ – Deployment of cybersecurity and hardening solutions
+
+2020-2022 : Freelance Web Developer  
+ – Website redesigns, client modules, security optimization
+
+🎓 Cybersecurity academic path  
+ – BTS SIO → Bachelor → MSc E3IN / ESIEE-IT
+
+───────────────────────────────────────────────
+> curl https://bensalemdev.fr --head
+
+HTTP/1.1 200 OK  
+Server: nginx  
+Description: Centralized portfolio, CV, projects & contact  
+Contact: samy.bensalem@etik.com · contact@bensalemdev.com  
+
+───────────────────────────────────────────────
+> echo "Philosophy"
+
+- Keep it **simple** and **readable**.  
+- Focus on **stability and clarity**.  
+- Share and document every project.  
+- Mix **tech** with **creative design** — that’s the fun part.
+
+───────────────────────────────────────────────
+> ./nyx --credits
+
+Maintained by **Nyx (Samy Bensalem)**  
+Website: [bensalemdev.fr](https://bensalemdev.fr)  
+GitHub: [@Nyx-Off](https://github.com/Nyx-Off)  
+License: MIT · Contributions welcome
+
+───────────────────────────────────────────────
+> exit 0
+```
