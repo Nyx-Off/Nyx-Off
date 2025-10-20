@@ -1,8 +1,8 @@
 ```
 ┌─────────────────────────────────────────────┐
-│  Samy Bensalem  —  Nyx                     │
-│  Cybersecurity • SysAdmin • Dev            │
-│  https://bensalemdev.fr                    │
+│  Samy Bensalem  —  Nyx                      │
+│  Cybersecurity • SysAdmin • Dev             │
+│  https://bensalemdev.fr                     │
 └─────────────────────────────────────────────┘
 
 > root@cybersec:~# whoami  
