@@ -2,7 +2,7 @@
 ┌─────────────────────────────────────────────┐
 │  Samy Bensalem  —  Nyx                      │
 │  Cybersecurity • SysAdmin • Dev             │
-│  https://bensalemdev.fr                     │
+│  https://bensalem.dev                     │
 └─────────────────────────────────────────────┘
 
 > root@cybersec:~# whoami  
@@ -69,13 +69,13 @@ Langues
  – BTS SIO → Bachelor → Master 2 E3IN / ESIEE-IT
 
 ───────────────────────────────────────────────
-> curl https://bensalemdev.fr --head
+> curl https://bensalem.dev --head
 
 HTTP/1.1 200 OK  
 Server: nginx  
 Location: /  
 Description: Portfolio complet, CV, projets & contact centralisé  
-Contact: samy.bensalem@etik.com · contact@bensalemdev.com  
+Contact: samy.bensalem@etik.com · samy@bensalem.dev  
 
 ───────────────────────────────────────────────
 > echo "Philosophie"
@@ -89,7 +89,7 @@ Contact: samy.bensalem@etik.com · contact@bensalemdev.com
 > ./nyx --credits
 
 Maintenu par **Nyx (Samy Bensalem)**  
-Site : [bensalemdev.fr](https://bensalemdev.fr)  
+Site : [bensalem.dev](https://bensalem.dev)  
 GitHub : [@Nyx-Off](https://github.com/Nyx-Off)  
 Licence : MIT · Contributions bienvenues
 
@@ -100,7 +100,7 @@ Licence : MIT · Contributions bienvenues
 ┌─────────────────────────────────────────────┐
 │  Samy Bensalem  —  Nyx                     │
 │  Cybersecurity • SysAdmin • Dev            │
-│  https://bensalemdev.fr                    │
+│  https://bensalem.dev                    │
 └─────────────────────────────────────────────┘
 
 > whoami  
@@ -167,12 +167,12 @@ Languages
  – BTS SIO → Bachelor → MSc E3IN / ESIEE-IT
 
 ───────────────────────────────────────────────
-> curl https://bensalemdev.fr --head
+> curl https://bensalem.dev --head
 
 HTTP/1.1 200 OK  
 Server: nginx  
 Description: Centralized portfolio, CV, projects & contact  
-Contact: samy.bensalem@etik.com · contact@bensalemdev.com  
+Contact: samy.bensalem@etik.com · samy@bensalem.dev  
 
 ───────────────────────────────────────────────
 > echo "Philosophy"
@@ -186,7 +186,7 @@ Contact: samy.bensalem@etik.com · contact@bensalemdev.com
 > ./nyx --credits
 
 Maintained by **Nyx (Samy Bensalem)**  
-Website: [bensalemdev.fr](https://bensalemdev.fr)  
+Website: [bensalem.dev](https://bensalem.dev)  
 GitHub: [@Nyx-Off](https://github.com/Nyx-Off)  
 License: MIT · Contributions welcome
 
