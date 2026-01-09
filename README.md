@@ -2,7 +2,7 @@
 ┌─────────────────────────────────────────────┐
 │  Samy Bensalem  —  Nyx                      │
 │  Cybersecurity • SysAdmin • Dev             │
-│  https://bensalem.dev                     │
+│  https://bensalem.dev                       │
 └─────────────────────────────────────────────┘
 
 > root@cybersec:~# whoami  
